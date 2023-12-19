@@ -23,3 +23,4 @@ The purpose of this project is experiment and play around with many different la
 - Assembly Language
 
 ## Functions to Implement
+#### `isPalindrome(n)`
