@@ -24,3 +24,4 @@ The purpose of this project is experiment and play around with many different la
 
 ## Functions to Implement
 #### `isPalindrome(n)`
+- **Description**: Returns `true` if `n` is a palindrome and `false` otherwise. A palindrome is the same read forward and backward.
