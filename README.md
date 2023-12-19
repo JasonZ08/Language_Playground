@@ -30,7 +30,7 @@ The purpose of this project is experiment and play around with many different la
 #### `freq(s)`
 - **Description**: Returns a one-character string containing the character that occurs with the highest frequency within 's'. If `s` has no characters, it should return the empty string.
 #### `uniq(lst)`
-- **Description**:   Given a list, returns a list with all duplicate elements removed. Order matters.
+- **Description**: Given a list, returns a list with all duplicate elements removed. Order matters.
 #### `find_max(matrix)`
 - **Description**: given a list of lists find the maximum. You may assume the inputs are non-negative ints.
 #### `count_ones(matrix)`
@@ -43,3 +43,11 @@ The purpose of this project is experiment and play around with many different la
 - **Description**: Takes in the Cartesian coordinates (3-dimensional) of two opposite corners of a rectangular prism and returns its volume. The sides of the rectangular prism are parallel to the axes.
 #### `fibonacci(n)`
 - **Description**: Returns the `n`th term of the fibonacci sequence.
+#### `reverse(lst)`
+- **Description**: Returns a list with the elements of `lst` but in reverse order.
+#### `count_occ(lst, target)`
+- **Description**: Returns how many elements in `lst` are equal to `target`.
+### `to_binstring(n)`
+- **Description**: Return a string showing the binary digits of the given unsigned (positive) integer.
+### `subset(a, b)`
+- **Description**: Return true if a is a subset of b and false otherwise.
