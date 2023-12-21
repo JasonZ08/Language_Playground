@@ -47,7 +47,7 @@ The purpose of this project is experiment and play around with many different la
 - **Description**: Returns a list with the elements of `lst` but in reverse order.
 #### `count_occ(lst, target)`
 - **Description**: Returns how many elements in `lst` are equal to `target`.
-### `to_binstring(n)`
+#### `to_binstring(n)`
 - **Description**: Return a string showing the binary digits of the given unsigned (positive) integer.
-### `subset(a, b)`
+#### `subset(a, b)`
 - **Description**: Return true if a is a subset of b and false otherwise.
